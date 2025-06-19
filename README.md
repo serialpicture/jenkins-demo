@@ -6,7 +6,6 @@ It demonstrates how to
 
 ![Jenkins logo](https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg)
 
-N
 i
 c
 o
