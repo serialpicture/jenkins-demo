@@ -2,7 +2,7 @@
 
 This is a dead simple FastAPI application with [Jenkins](https://www.jenkins.io/) [CI/CD](https://github.com/resources/articles/devops/ci-cd) integration. 
 
-It demonstrates how to buil, de `main` branch.
+It demonstrates how to 
 
 ![Jenkins logo](https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg)
 
