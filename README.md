@@ -1,8 +1,7 @@
 # Jekins deployment FastAPI with Docker demo
 
 This i. 
-
-It demonstrates how to 
+ to 
 
 ![Jenkins logo](https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo_with_title.svg)
 
