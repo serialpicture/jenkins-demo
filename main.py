@@ -7,6 +7,6 @@ app = FastAPI()
 def read_root():
     return "Hello, World!"
 
-@app.get("/tapetonnomapresleslash/{name}", response_class=PlainTextResponse)
+@app.get("/tapetonnomapresleslashstp/{name}", response_class=PlainTextResponse)
 def read_user(name: str):
     return f"Hello {name}" 
